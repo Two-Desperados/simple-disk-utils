@@ -1,0 +1,12 @@
+
+{
+    "name": "com.dkrprasetya.simple-disk-utils",
+    "version": "1.0.0",
+    "displayName": "SimpleDiskUtils",
+    "description": "Disk utils",
+    "unity": "2018.3",  
+    "documentationUrl": "https://example.com/",
+    "dependencies": {
+     
+    }
+  }
