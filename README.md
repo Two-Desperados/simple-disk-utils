@@ -55,7 +55,7 @@ If the definitions are not clear enough, please see the included sample scene in
 ## Notes
 1. Tested on Windows, OSX, iOS, and Android platform.
 2. Implemented file handling methods are not including methods that are already covered in standard library (most likely on System.IO).
-
+3. Add -keep class com.dikra.** { *; } if you are using proguard
 
 ## License
 
